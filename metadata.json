@@ -1,0 +1,8 @@
+{
+  "name": "Amine Watching Jinane",
+  "description": "A loving, motivational, and aesthetic app designed to keep Jinane organized, confident, and feeling loved every day.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
